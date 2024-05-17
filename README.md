@@ -1,9 +1,9 @@
 # ToppersWorld_Internship
 
-Overview
+#Overview
 #Project 1
 Number Guessing Game 
 
 Contact Information
-[h](https://github.com/VishalBorase1/)
+Vishal Borase
 
