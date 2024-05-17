@@ -1,8 +1,7 @@
 # ToppersWorld_Internship
 
-#Overview
-#Project 1
-Number Guessing Game : 
+# Overview
+Project 1 : Number Guessing Game 
 the number guessing game project in
 Java is to create an interactive and entertaining game
 where the player must guess a randomly generated
