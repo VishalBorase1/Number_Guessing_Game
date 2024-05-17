@@ -9,4 +9,7 @@ number within a specified range. The game will provide
 feedback on each guess, guiding the player to find the
 correct number within a limited number of attempts.
 
+# Contact Information
+Vishal Borase 
 
+Email: vishal.borase.023@gmail.com
