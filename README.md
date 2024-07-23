@@ -1,4 +1,4 @@
-# ToppersWorld_Internship
+# Number_Guessing_Game_Code
 
 # Overview
 Project 1 : Number Guessing Game 
